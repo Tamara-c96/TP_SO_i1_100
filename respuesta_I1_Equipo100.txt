@@ -9,7 +9,7 @@ Nombre: Tamara
 
 a) Si, se visualizan los datos cargados por los demas colaboradores.
 b) Si, el resto de integrantes lo ven.
-c)
-d)
+c)Si, si beta agrega un archivo los demás integrantes lo ven.
+d)Nos comunicamos por discord.
 e)
 
