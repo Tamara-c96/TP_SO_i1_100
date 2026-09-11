@@ -7,9 +7,9 @@ Nombre: Draco
 Apellido: Cortes
 Nombre: Tamara
 
-a) Si, se visualizan los datos cargados por los demas colaboradores.
+a) Si, se visualizan los datos cargados por los demás colaboradores.
 b) Si, el resto de integrantes lo ven.
-c)Si, si beta agrega un archivo los demás integrantes lo ven.
-d)Nos comunicamos por discord.
-e)
+c) Si, si beta agrega un archivo los demás integrantes lo ven.
+d) Nos comunicamos por Discord.
+e) Con los comentarios de los commits.
 
