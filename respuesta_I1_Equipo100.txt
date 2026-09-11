@@ -1,0 +1,15 @@
+Apellido: Yedro
+Nombre: Alejandro
+
+Apellido: Quintas
+Nombre: Draco
+
+Apellido: Cortes
+Nombre: Tamara
+
+a) Si, se visualizan los datos cargados por los demas colaboradores.
+b) Si, el resto de integrantes lo ven.
+c)
+d)
+e)
+
